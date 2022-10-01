@@ -6,7 +6,6 @@ body {
     background-color: #b2bec3;
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
-    
 }
 
 h1 {
@@ -68,12 +67,12 @@ a {
 .vizitka {
     background-color: white;
     margin: 150px auto;
-    width: 580px;
+    width: 550px;
     border-radius: 10px;
     box-shadow: 4px 4px 6px grey;
     position: relative;
     padding: 30px;
-    box-sizing: border-box;
+    
 }
 /*
 BARVY:
